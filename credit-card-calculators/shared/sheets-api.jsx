@@ -4,8 +4,8 @@
 
 export class SheetsAPI {
   constructor() {
-    this.apiKey = 'AIzaSyCJo3aOTjiOpKgVVY28FKB6PoGaDefCcD4';
-    this.spreadsheetId = '1QznZhNzCxeijnnct6n_eauTtHElBlW25c2iQMmWRiUY';
+    this.apiKey = 'AIo3addddddssOTjdddiOpKgVVY28dsfsfsFKB6fsfsfsfsfsPoGaDef'; // Enter Google Sheet API here
+    this.spreadsheetId = '1QznZhNzCyuhussjbndjnt6n_eauTtHElBlW25c2iQMmWRiUY'; // Enter Google Sheet ID here
     this.baseUrl = 'https://sheets.googleapis.com/v4/spreadsheets';
     this.cache = new Map();
     this.cacheExpiry = 5 * 60 * 1000; // 5 minutes
